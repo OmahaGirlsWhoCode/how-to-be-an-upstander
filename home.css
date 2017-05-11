@@ -1,0 +1,88 @@
+.pic-alex{
+padding:10px;
+height: 300px;
+}
+
+
+
+.content{
+    background-color: #ffffff;
+    margin-bottom: 10px;
+}
+.top a {
+    color: black;
+}
+
+.top{
+    display: flex;
+    justify-content: space-around;
+    background-color: #ffffff;
+    line-height: 2.25;
+    font-family: "Verdana", Verdana;
+    font-size: 20px;
+}
+
+.profiles{
+    display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+}
+
+.profiles img{
+        padding-bottom: 15px;
+        padding-top: 15px;
+}
+
+.banner img{
+    display: flex;
+        flex-grow: 15;
+        width: 60%;
+        margin: 0 auto;
+        padding-top: 20px;
+        padding-bottom: 50px;
+        background: white;
+}
+
+body{
+    background-color: #91dfa6;
+}
+
+.iframe{
+    display: flex;
+        justify-content: space around;
+ 
+}
+
+.linkcolors{
+    color: ;
+}
+
+.flex-style {
+    display: flex;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left:20px;
+}
+
+.resourceimg {
+    width: 280px;
+    padding-right: 10px;
+}
+
+.resourcesbold{
+    font-size: 35px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.resourcetitle {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.groupimg {
+    width: 550px;
+}
